@@ -1,1 +1,2 @@
-# App_Making_DB_to_server
+# 파이썬 앱 만
+앱 만들기
