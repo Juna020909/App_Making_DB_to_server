@@ -1,2 +1,12 @@
-#역할:데이터베이스 서버 연동 방법
-- [SQLite-사용법](#SQLite-사용법)
+#역할: PHP 웹서버를 이용하여 데이터베이스와 연동
+<a herf="#bookmark"> <p> <em> HTML </em> 공부 </p> </a>
+
+<h1> <a name="bookmark"> <em> HTML </em> 공부 </a> </h1>
+
+
+
+<h1> <em> CSS <em> 공부 </h1>
+
+
+  
+<h1> <em> JAVASCRIPT <em> 공부 </h1>
