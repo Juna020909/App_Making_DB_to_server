@@ -15,5 +15,5 @@ TCP School 이용하여 공부
   method 속성은 입력받은 데이터를 전달 방법<br>
   즉 사용자가 form 요소를 통해 입력한 데이터는 action 속성에 명시된 위치로 method 속성의 방식을 통해 전달 <br>
   method 속성에서 GET방법과 POST방법이 있는데 POST방법을 주로 쓸 것 같다.
-</p>
+ </p>
 
